@@ -1,0 +1,35 @@
+name: gopal
+analytics: {}
+github: true
+description: my personal website o the grid
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.5513148258905858
+color:
+  lightness: 0.9980604352890654
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  saturation: 0.3986000226341654
+  brandStrength: 0.7023355722665636
+  rhythmicContrast: 0.7586727030013392
+content_rating:
+  adult: false
+typography_spectrum: 0.9825028632767498
+opengraph: {}
+title: 'my personal website '
