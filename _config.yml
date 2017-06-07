@@ -1,3 +1,18 @@
+layout_spectrum: 0.5939608745678964
+typography_spectrum: 0.8606880289874971
+color:
+  lightness: 0.47589673633060164
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  saturation: 0.17274519389725781
+  brandStrength: 0.11179979668948616
+  rhythmicContrast: 0.9035068472630648
+coverPrefs:
+  filter: false
 name: gopal
 analytics: {}
 github: true
@@ -16,20 +31,7 @@ collections:
       format: rss
       number: 10
 content: []
-layout_spectrum: 0.5513148258905858
-color:
-  lightness: 0.9980604352890654
-  brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-  saturation: 0.3986000226341654
-  brandStrength: 0.7023355722665636
-  rhythmicContrast: 0.7586727030013392
 content_rating:
   adult: false
-typography_spectrum: 0.9825028632767498
 opengraph: {}
 title: 'my personal website '
